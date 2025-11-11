@@ -33,8 +33,6 @@ Each video is hosted on Google Drive — just click the link to watch.
 ## 🧩 How to Use
 
 - Click on any lecture to watch it directly on Google Drive.
-- Use this repo to keep all your DSA learning videos organized.
-- You can fork ⭐ it or add notes in separate markdown files later.
 
 ---
 
